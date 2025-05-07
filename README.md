@@ -146,8 +146,9 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/78c1f280-17bb-4e6e-8999-7b23d30e6645)
 
-![alt text](image.png)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
